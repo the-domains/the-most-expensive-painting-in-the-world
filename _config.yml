@@ -1,0 +1,28 @@
+name: The Most Expensive Painting In The World
+favicon: null
+layout_spectrum: 0.8024862818419933
+typography_spectrum: 0.7374318630900234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.025214940309524536
+  lightness: 0.6944618711713701
+  saturation: 0.08481478411704302
+  rhythmicContrast: 0.28560898546129465
+purpose: []
